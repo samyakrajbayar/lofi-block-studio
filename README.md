@@ -1,4 +1,4 @@
-# Lofi Block Studio 🧱🎧(In Developement)
+# Lofi Block Studio 🧱🎧(In Development)
 
 **Lofi Block Studio** is a creative workspace for modular composition. It allows users to arrange, sequence, and manipulate "blocks" to generate lofi beats, ambient soundscapes, or visual patterns. Designed with a focus on minimalism and flow, it provides a distraction-free environment for experimentation.
 
